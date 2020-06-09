@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="587862b0-0518-48f1-ad5d-531af0d73fd5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ZaCFYe4dmmU49m1TsNjJzu4fIe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw6" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mom &amp; Dad\PycharmProjects\MachineLearning\hw\hw5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.decision_tree_starter">
+    <configuration name="decision_tree_starter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decision_tree_starter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ensemble" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ensemble.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.decision_tree_starter" />
+        <item itemvalue="Python.ensemble" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="587862b0-0518-48f1-ad5d-531af0d73fd5" name="Default Changelist" comment="" />
+      <created>1585067714300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585067714300</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="946" y="363" key="FileChooserDialogImpl" timestamp="1586213020064">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="946" y="363" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1586213020064" />
+    <state width="1592" height="326" key="GridCell.Tab.0.bottom" timestamp="1586045839931">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1592" height="326" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1586045839931" />
+    <state width="1592" height="326" key="GridCell.Tab.0.center" timestamp="1586045839931">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1592" height="326" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1586045839931" />
+    <state width="1592" height="326" key="GridCell.Tab.0.left" timestamp="1586045839931">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1592" height="326" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1586045839931" />
+    <state width="1592" height="326" key="GridCell.Tab.0.right" timestamp="1586045839931">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1592" height="326" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1586045839931" />
+    <state width="1532" height="374" key="GridCell.Tab.1.bottom" timestamp="1585970086670">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1532" height="374" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1585970086670" />
+    <state width="1532" height="374" key="GridCell.Tab.1.center" timestamp="1585970086670">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1532" height="374" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1585970086670" />
+    <state width="1532" height="374" key="GridCell.Tab.1.left" timestamp="1585970086670">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1532" height="374" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1585970086670" />
+    <state width="1532" height="374" key="GridCell.Tab.1.right" timestamp="1585970086670">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1532" height="374" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1585970086670" />
+    <state x="293" y="200" key="SettingsEditor" timestamp="1586008971784">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="293" y="200" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1586008971784" />
+    <state x="525" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1586212979068">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="525" y="382" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1586212979068" />
+    <state x="615" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586045587216">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="615" y="477" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112@0.0.2048.1112" timestamp="1586045587216" />
+    <state x="486" y="246" width="840" height="678" key="search.everywhere.popup" timestamp="1586008959562">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="486" y="246" width="840" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1586008959562" />
+    <state x="615" y="347" key="svn.repositoryBrowser" timestamp="1586008863939">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="615" y="347" key="svn.repositoryBrowser/0.0.2048.1112@0.0.2048.1112" timestamp="1586008863939" />
+  </component>
+</project>
